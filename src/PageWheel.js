@@ -36,7 +36,7 @@ const PageWheel = () => {
       <div>
         <div className="app-info">
           <div className="title-container">
-            <img src={logo} width={650} alt="logo" />
+            <img src={logo} width={700} alt="logo" />
             <p className="title-style">{"A Roleta"}</p>
           </div>
           {winner ? <Confetti width={width} height={height} /> : null}
