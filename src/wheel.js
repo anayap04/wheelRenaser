@@ -91,12 +91,12 @@ const Wheel = (props) => {
       <div style={{ width: "120", alignSelf: "center", margin: "auto" }}>
         <button
           style={{
-            marginTop: -10,
+            marginTop: -60,
             width: "100%",
-            height: "42px",
+            height: "24px",
             background: "transparent",
             color: "#CFCCC5",
-            fontSize: "36px",
+            fontSize: "24px",
             border: "transparent",
           }}
           onClick={handleStart}
