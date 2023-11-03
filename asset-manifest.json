@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/wheelRenaser/static/css/main.e65c9c86.css",
-    "main.js": "/wheelRenaser/static/js/main.a4e16be1.js",
+    "main.css": "/wheelRenaser/static/css/main.f8758e84.css",
+    "main.js": "/wheelRenaser/static/js/main.b451a2d7.js",
     "static/js/787.c0169844.chunk.js": "/wheelRenaser/static/js/787.c0169844.chunk.js",
     "static/media/logoME.png": "/wheelRenaser/static/media/logoME.05714a8e95d9797e3208.png",
     "static/media/logo_blc.png": "/wheelRenaser/static/media/logo_blc.4895b03a8ed69aa96914.png",
     "static/media/background.png": "/wheelRenaser/static/media/background.3dec868fd36ccf2008a0.png",
     "index.html": "/wheelRenaser/index.html",
-    "main.e65c9c86.css.map": "/wheelRenaser/static/css/main.e65c9c86.css.map",
-    "main.a4e16be1.js.map": "/wheelRenaser/static/js/main.a4e16be1.js.map",
+    "main.f8758e84.css.map": "/wheelRenaser/static/css/main.f8758e84.css.map",
+    "main.b451a2d7.js.map": "/wheelRenaser/static/js/main.b451a2d7.js.map",
     "787.c0169844.chunk.js.map": "/wheelRenaser/static/js/787.c0169844.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e65c9c86.css",
-    "static/js/main.a4e16be1.js"
+    "static/css/main.f8758e84.css",
+    "static/js/main.b451a2d7.js"
   ]
 }
